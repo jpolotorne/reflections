@@ -18,3 +18,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
   Sending the files go and back, it would be easier to send, but more difficult to check mistakes, new features and code.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+  When it has to be accepted by others, then I don't make mistakes and errors on the master.
