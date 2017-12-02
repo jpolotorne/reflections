@@ -32,3 +32,7 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+  It saves you a lot of time and indicates you when there's a conflict. Maybe
+  you don't understand what other person did in the files and don't know what
+  to keep and what to change.
